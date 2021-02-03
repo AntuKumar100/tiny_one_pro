@@ -1,0 +1,148 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /* slider */
+    .slider-content {
+        margin-top: 25px;
+    }
+    .menu ul li a {
+        padding: 0 0 !important;
+        text-align: right;
+    }
+    .slider-content h1 {
+        font-weight: 700;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .slider-content ul li img {
+        padding-right: 25px;
+    }
+    .slider-content ul {
+        text-align: center;
+    }
+    /* features start */
+    .features{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .c_h1{
+        font-size: 28px;
+    }
+    .c_p{
+        font-size: 18px;
+        word-spacing: 0;
+    }
+    .m_t{
+        margin-top: 30px;
+    }
+    .s_icon{
+        font-size: 40px;
+    }
+    .s_text{
+        text-align: center;
+    }
+    .s_text h2{
+        font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        
+    }
+    /* concact start */
+    .concact{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .f_form{
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+    .f_submit{
+        margin-top: 20px;
+    }
+
+    .ff{
+        padding-bottom: 50px;
+    }
+
+    /* footer  */
+    footer{
+        padding-bottom: 50px;
+    }
+    .f_1{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header start  */
+    .menu ul li a {
+        padding: 0 0 !important;
+        text-align: right;
+    }
+    /* slider */
+    .slider-content {
+        margin-top: 25px;
+    }
+    .slider-content h1 {
+        font-weight: 700;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .slider-content ul li img {
+        padding-right: 25px;
+    }
+    .slider-content ul {
+        text-align: center;
+    }
+    /* features start */
+    .features{
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    .m_t{
+        margin-top: 40px;
+    }
+    .s_text{
+        text-align: center;
+    }
+    /* concact start */
+    .concact{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .ff{
+        padding-bottom: 100px;
+    }
+
+    /* footer  */
+    .f_1{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header start  */
+    .menu ul li a {
+        padding: 0 0 !important;
+        text-align: right;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+} 
